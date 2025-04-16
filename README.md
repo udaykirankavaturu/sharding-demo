@@ -26,7 +26,7 @@ This setup includes:
 ### Step 1: Clone and Start Containers
 
 ```bash
-git clone https://github.com/your-username/mongodb-sharding-demo.git
+git clone https://github.com/udaykirankavaturu/sharding-demo
 cd mongodb-sharding-demo
 ```
 
