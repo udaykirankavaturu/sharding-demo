@@ -36,13 +36,13 @@ docker compose up -d
 
 This will launch:
 
-    configsvr replica set
+- configsvr replica set
 
-    shard1 replica set
+- shard1 replica set
 
-    shard2 replica set
+- shard2 replica set
 
-    mongos router
+- mongos router
 
 ### 🔁 Step 2: Initialize Replica Sets
 
